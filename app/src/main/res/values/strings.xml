@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">2pickremake</string>
+    <string name="sum_text">합은 %d입니다.</string>
+</resources>
